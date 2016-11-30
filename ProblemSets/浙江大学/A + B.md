@@ -45,8 +45,8 @@ author:pokemonWei
 start_date:2016-11-9
 version:1.0
 */
-#include
-#include
+#include<iostream>
+#include<stdio.h>
 using namespace std;
 int getFromEn(int n,char f);
 int main(void){
